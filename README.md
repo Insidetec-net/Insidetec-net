@@ -10,11 +10,11 @@
 
 ### 👨‍💻 Sobre mim
 
-* 🚀 Fundador e principal desenvolvedor da **InsideTec**, focada em engenharia de software e soluções corporativas.
-* 🧠 Desenvolvendo arquiteturas de integração com Inteligência Artificial local (Ollama, Qwen), frameworks multi-agentes (Ruflo) e agentes autônomos focados em performance (MORPHEU).
-* 🔒 Foco severo em segurança de back-end (ex: **SecureStore Engine**) aplicando PDO, verificação de assinaturas HMAC-SHA256, e políticas CSP.
-* ⚙️ Construção de APIs, automações de background 24/7 e painéis web robustos utilizando **Python (Flask)**, **PHP**, **JavaScript**, **MySQL** e ambientes conteinerizados com **Docker**.
-* 🐧 Experiência profunda em administração de sistemas, gerenciamento de partições (GParted/Diskpart) e fluxos de trabalho híbridos em ambientes Linux/Windows.
+* 🚀 Com mais de uma década de vivência no ciclo de engenharia de software, atuo como **Lead Engineer e Fundador da InsideTec**, orquestrando o desenvolvimento de soluções corporativas e arquiteturas escaláveis de ponta a ponta.
+* 🧠 Especialista em **Sistemas Distribuídos e Integração de IA**, projetando ecossistemas complexos que envolvem orquestração de LLMs locais (Ollama, Qwen) e frameworks multi-agentes (Ruflo, MORPHEU) para automação autônoma em ambientes de produção.
+* 🔒 Sólida experiência em **Arquitetura de Segurança e DevSecOps**, implementando blindagem de back-end em aplicações críticas (ex: **SecureStore Engine**) através de criptografia avançada (HMAC-SHA256), proteção contra vetores de injeção e políticas estritas de CSP.
+* ⚙️ Domínio na concepção e sustentação de **APIs de Alta Disponibilidade e Automações 24/7**, utilizando Python (Flask), PHP e MySQL, sempre orientados a contêineres (Docker) e princípios de Clean Architecture.
+* 🐧 Background robusto em **Infraestrutura e Administração de Sistemas**, operando gerenciamento de servidores, tunning de performance e fluxos de trabalho híbridos de alta performance em ecossistemas Linux e Windows.
 
 ---
 
