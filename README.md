@@ -40,19 +40,19 @@ Meu foco é desenhar arquiteturas escaláveis, seguras e integrar soluções de 
 ### 📊 Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Insidetec-net&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Insidetec-net&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Insidetec-net&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Insidetec-net&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insidetec-net&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insidetec-net&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" />
 </div>
 
 ### ⚡ Projetos e Focos Recentes
