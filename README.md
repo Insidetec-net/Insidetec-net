@@ -10,29 +10,19 @@
 
 ### 👨‍💻 Sobre mim
 
-Escrever código é a parte fácil; o verdadeiro desafio de um engenheiro de software é projetar sistemas que sobrevivam à escala, à segurança hostil e ao tempo. Como **Lead Engineer e Fundador da InsideTec**, minha atuação resolve problemas complexos de negócios através de arquiteturas resilientes, dispensando "hypes" em favor de tecnologias sólidas e escaláveis.
+Sou um Engenheiro de Software com mais de 10 anos de experiência, atuando hoje como Lead Engineer.
+Meu foco é desenhar arquiteturas escaláveis, seguras e integrar soluções de Inteligência Artificial para resolver problemas reais de negócio. Prefiro código limpo, infraestrutura bem configurada e sistemas que não dão dor de cabeça em produção.
+
+### 🛠️ O que eu faço no dia a dia
+
+* **🤖 IA & Sistemas Autônomos:** Exploro bastante o ecossistema de LLMs locais (**Ollama, Qwen**) para garantir privacidade de dados corporativos (arquiteturas air-gapped). Atualmente desenvolvendo o **MORPHEU** e usando o framework **Ruflo** para orquestrar swarms de agentes autônomos que rodam 24/7 em background.
+* **🔒 Backend & Segurança:** Construo APIs resilientes com **Python (Flask)** e **PHP**. No projeto **SecureStore Engine**, implementei segurança server-to-server pesada usando assinaturas **HMAC-SHA256**, PDO e políticas CSP estritas. Gosto de tirar a carga do request principal usando mensageria e workers em background.
+* **🐧 Infraestrutura & DevOps:** Mão na massa desde o bare-metal até o contêiner. Experiência forte com tuning de Linux, particionamento de discos e uso extensivo de **Docker** para garantir isolamento de microsserviços e extrair o máximo do hardware.
+* **👁️ Visão Sistêmica:** Gosto de entender o produto de ponta a ponta. Tenho experiência com projetos variados, desde pipelines de visão computacional para análise comportamental via CFTV até a entrega contínua do código.
 
 ---
 
-### 🧠 Engenharia de Plataforma & IA Autônoma (Air-Gapped)
-
-* **Orquestração Zero-Trust:** Arquitetura de ecossistemas de IA generativa totalmente locais e privados (**Ollama, Qwen**), garantindo que dados corporativos sensíveis nunca trafeguem para APIs de terceiros.
-* **Sistemas Multi-Agentes (Swarms):** Desenvolvimento do projeto **MORPHEU** e orquestração do framework **Ruflo** para criar pipelines de agentes autônomos que operam 24/7 em background, resolvendo fluxos de trabalho sem intervenção humana.
-
-### 🔒 Arquitetura de Segurança & Resiliência (Back-end)
-
-* **APIs Blindadas:** Engenharia de segurança aplicada no **SecureStore Engine**, implementando validação de assinaturas criptográficas (**HMAC-SHA256**) em comunicações server-to-server, prevenção de injeções nativa via PDO e blindagem de front-end com CSP estrito.
-* **Desacoplamento Assíncrono:** Substituição de arquiteturas bloqueantes (CRUDs tradicionais) por sistemas orientados a eventos. Construção de APIs (**Python/Flask e PHP**) focadas em filas de processamento, delegando cargas pesadas para workers em segundo plano.
-
-### 🐧 Infraestrutura & Domínio Bare-Metal
-
-* **Do Kernel ao Contêiner:** Controle absoluto do ambiente de execução. Proficiência em otimização de sistemas Linux, provisionamento físico de discos e isolamento de microsserviços via **Docker**, garantindo que o software extraia o limite do hardware.
-
-### 👁️ Visão Sistêmica
-
-* **Integração End-to-End:** Experiência no design de soluções que unem pontas soltas no mundo físico e digital — desde pipelines de visão computacional para análise comportamental via CFTV até a entrega contínua do código em produção.
-
----
+**Stack principal:** Python, Flask, PHP, JavaScript, MySQL, Docker, Linux.
 
 ### 🛠️ Tech Stack & Ferramentas
 
