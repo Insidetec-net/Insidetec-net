@@ -15,14 +15,17 @@ Meu foco é desenhar arquiteturas escaláveis, seguras e integrar soluções de 
 
 ### 🛠️ O que eu faço no dia a dia
 
-* **🤖 IA & Sistemas Autônomos:** Exploro bastante o ecossistema de LLMs locais (**Ollama, Qwen**) para garantir privacidade de dados corporativos (arquiteturas air-gapped). Atualmente desenvolvendo o **MORPHEU** e usando o framework **Ruflo** para orquestrar swarms de agentes autônomos que rodam 24/7 em background.
+* **🤖 IA & Sistemas Autônomos:** Exploro bastante o ecossistema de LLMs locais para garantir privacidade de dados corporativos (arquiteturas air-gapped). Atualmente desenvolvendo o **MORPHEU** e usando o framework **Ruflo** para orquestrar swarms de agentes autônomos que rodam 24/7 em background.
+  
 * **🔒 Backend & Segurança:** Construo APIs resilientes com **Python (Flask)** e **PHP**. No projeto **SecureStore Engine**, implementei segurança server-to-server pesada usando assinaturas **HMAC-SHA256**, PDO e políticas CSP estritas. Gosto de tirar a carga do request principal usando mensageria e workers em background.
+  
 * **🐧 Infraestrutura & DevOps:** Mão na massa desde o bare-metal até o contêiner. Experiência forte com tuning de Linux, particionamento de discos e uso extensivo de **Docker** para garantir isolamento de microsserviços e extrair o máximo do hardware.
+  
 * **👁️ Visão Sistêmica:** Gosto de entender o produto de ponta a ponta. Tenho experiência com projetos variados, desde pipelines de visão computacional para análise comportamental via CFTV até a entrega contínua do código.
 
 ---
 
-**Stack principal:** Python, Flask, PHP, JavaScript, MySQL, Docker, Linux.
+**Stack principal:** Python, Flask, PHP, JavaScript, MySQL, Docker, Node, Linux.
 
 ### 🛠️ Tech Stack & Ferramentas
 
