@@ -1,48 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=typing&color=timeGradient&height=250&section=header&text=Emerson%20Pires&fontSize=80&descAlign=50&descAlignY=70&desc=Engenheiro%20de%20Software%20%7C%20Especialista%20Full%20Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Emerson%20Pires&fontSize=80&descAlign=50&descAlignY=70&desc=Desenvolvedor%20Full%20Stack%20Pleno%20%7C%20Engenheiro%20de%20Software" />
 </div>
 
 <div align="center">
-  <a href="https://www.instagram.com/emr.pires" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <p>Construindo aplicações web escaláveis, orquestrando agentes de Inteligência Artificial e desenvolvendo arquiteturas seguras.</p>
+</div>
+
+---
+
+### 👨‍💻 Sobre mim
+
+* 🚀 Fundador e principal desenvolvedor da **InsideTec**, focada em engenharia de software e soluções corporativas.
+* 🧠 Desenvolvendo arquiteturas de integração com Inteligência Artificial local (Ollama, Qwen), frameworks multi-agentes (Ruflo) e agentes autônomos focados em performance (MORPHEU).
+* 🔒 Foco severo em segurança de back-end (ex: **SecureStore Engine**) aplicando PDO, verificação de assinaturas HMAC-SHA256, e políticas CSP.
+* ⚙️ Construção de APIs, automações de background 24/7 e painéis web robustos utilizando **Python (Flask)**, **PHP**, **JavaScript**, **MySQL** e ambientes conteinerizados com **Docker**.
+* 🐧 Experiência profunda em administração de sistemas, gerenciamento de partições (GParted/Diskpart) e fluxos de trabalho híbridos em ambientes Linux/Windows.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask,php,js,html,css,mysql,docker,linux,ubuntu,windows,vscode&perline=6" />
   </a>
-  <a href="mailto:seu-email-profissional@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/Insidetec-net" target="_blank">
-    <img src="https://img.shields.io/badge/-InsideTec-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Insidetec-net&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=007ACC" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Insidetec-net&theme=radical&hide_border=true&background=0D1117&ring=007ACC&fire=007ACC&currStreakNum=FFFFFF" height="175" />
 </div>
 
 <br>
 
 <div align="center">
-  <p><b>Construindo aplicações web escaláveis, orquestrando agentes de IA e desenvolvendo arquiteturas seguras.</b></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insidetec-net&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=007ACC" height="165" />
 </div>
 
 ---
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,php,js,html,css,mysql,docker,linux,ubuntu,windows,vscode&perline=12" />
-  </a>
-</div>
+### ⚡ Projetos e Focos Recentes
 
----
+* 🤖 **Orquestração de LLMs:** Integração de endpoints da API Hermes, Model Context Protocol (MCP) e execução otimizada de modelos Qwen2.5.
+* 🛡️ **Segurança Web Avançada:** Arquitetura de e-commerce blindada contra injeções, padronização de logs de auditoria e desenvolvimento seguro focado em mitigação de riscos.
+* 👁️ **Visão Computacional & Automação:** Pesquisa em pipelines de análise comportamental para ambientes físicos e rotinas locais automatizadas via Python em background.
 
-### 👨‍💻 Sobre minha jornada
-
-* 🔭 **Atualmente construindo:** Arquiteturas de integração com Inteligência Artificial local (Ollama, Qwen) e frameworks multi-agentes (Ruflo).
-* 🌱 **Aprimorando:** Engenharia de Sistemas Distribuídos e desenvolvimento do **MORPHEU** (Agente Autônomo em Python).
-* 💼 **Empreendedorismo:** Fundador e principal desenvolvedor da **InsideTec**, criando desde e-commerces blindados (SecureStore Engine) até pipelines de visão computacional.
-* 🛡️ **Foco técnico:** Segurança de back-end (PDO, HMAC-SHA256, CSP), orquestração via Docker e automação de background 24/7.
-* ⚡ **Curiosidade:** Entusiasta de infraestrutura bare-metal, customização profunda de SOs (Linux/Hackintosh) e otimização de hardware.
-
----
-
-### 📊 Analytics
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Insidetec-net&show_icons=true&theme=tokyonight&hide_border=true" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insidetec-net&layout=compact&theme=tokyonight&hide_border=true" height="190" />
+  <i>"A complexidade de amanhã se resolve com a arquitetura limpa de hoje."</i>
 </div>
