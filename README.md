@@ -37,20 +37,23 @@ Meu foco é desenhar arquiteturas escaláveis, seguras e integrar soluções de 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Insidetec-net&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=007ACC" height="175" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Insidetec-net&theme=radical&hide_border=true&background=0D1117&ring=007ACC&fire=007ACC&currStreakNum=FFFFFF" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Insidetec-net&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insidetec-net&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=007ACC" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Insidetec-net&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insidetec-net&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Linguagens Mais Usadas" />
+</div>
 
 ### ⚡ Projetos e Focos Recentes
 
